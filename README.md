@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Aprobot Atpp
+- community starter ki
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- welcome users
 
 ## Getting started
 
